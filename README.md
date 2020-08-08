@@ -1,6 +1,16 @@
 # DBFace 
 DBFace is a real-time, single-stage detector for face detection, with faster speed and higher accuracy
 
+#Version requirements
+python ==3.6
+
+pyqt == 5.12
+
+opencv-python == 4.0.1.24
+
+QtAwesome == 0.7.2
+
+torchvision==0.7.0
 # Our work
 
 We use the DBFace model proposed by DeepBlue Technology to build a face recognition platform.
@@ -28,7 +38,7 @@ After processing
 
 
 ## Author
-- [Tamie-Li](https://github.com/Tamie-Li)
+- [Tammie-Li](https://github.com/Tammie-Li)
 
 
 
