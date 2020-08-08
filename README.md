@@ -18,6 +18,7 @@ We use the DBFace model proposed by DeepBlue Technology to build a face recognit
 The GUI part is developed by Pyqt5
 
 #Result
+
 ## Picture mode
 
 Before processing
@@ -25,9 +26,11 @@ Before processing
 ![before](result/start.png)
 
 After processing
+
 ![after](result/end.png)
 ---
 ## Camera mode
+
 ![camera](result/camera.png)
 
 ## QQ
